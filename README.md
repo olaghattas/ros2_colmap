@@ -1,6 +1,7 @@
 # ros2_colmap
 
 
+```
 sudo apt-get install \
     git \
     cmake \
@@ -23,3 +24,5 @@ sudo apt-get install \
     libqt5opengl5-dev \
     libcgal-dev \
     libceres-dev
+
+```
